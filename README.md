@@ -15,6 +15,11 @@
 | Final Dashboard & Storyboard             | ✅ DONE    |
 
 ---
+📌 Final Dashboards and Story View
+Dashboard 1: Combines regional and categorical insights.
+Dashboard 2: Focuses on endangered sites and trends.
+Story View: A Tableau Story that connects all dashboards in a narrative format for clear storytelling.
+
 
 ## 🎥 Demonstration Video
 
